@@ -1,6 +1,6 @@
 {
   "name": "star_wars_character_db",
-  "private": false,
+  "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
